@@ -7,3 +7,4 @@ Kodi i faqes së përparme të faqes së internetit është me burim të hapur, 
 * [kodi i pjesës së përparme](https://github.com/xxai-art/web)
 * [Paketa gjuhësore për sitin në tërësi](https://github.com/xxai-art/web/tree/main/i18n)
 * [Paketa gjuhësore për modulet e hyrjes](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Dokumentacioni shumëgjuhësh i faqes në internet](https://github.com/xxai-doc)
