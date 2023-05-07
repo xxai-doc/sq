@@ -1,6 +1,6 @@
 <p align="center"><a href="https://wac.tax"><img src="https://cdn.jsdelivr.net/gh/wactax/img/logo.svg"/></a></p><p align="center"><a href="https://github.com/wactax/wac.tax/blob/main/doc/README.md#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/2/g/wactax"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-# [xxAI.art](https://xxAI.art)
+* [Dokumentacioni shumëgjuhësh i faqes në internet](https://github.com/xxai-doc)
 
 Kodi i faqes së përparme të faqes së internetit është me burim të hapur, i mirëpritur për të ndihmuar në optimizimin e përkthimit
 
