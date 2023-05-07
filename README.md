@@ -2,9 +2,9 @@
 
 * [Dokumentacioni shumëgjuhësh i faqes në internet](https://github.com/xxai-doc)
 
-Kodi i faqes së përparme të faqes së internetit është me burim të hapur, i mirëpritur për të ndihmuar në optimizimin e përkthimit
+Kodi frontend i faqes së internetit është me burim të hapur, i mirëpritur për të ndihmuar në optimizimin e përkthimit
 
-* [kodi i pjesës së përparme](https://github.com/xxai-art/web)
+* [Kodi i Frontend](https://github.com/xxai-art/web)
 * [Paketa gjuhësore për sitin në tërësi](https://github.com/xxai-art/web/tree/main/i18n)
 * [Paketa gjuhësore për modulet e hyrjes](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Dokumentacioni shumëgjuhësh i faqes në internet](https://github.com/xxai-doc)
